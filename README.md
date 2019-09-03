@@ -28,7 +28,7 @@ The appllication was designed considering some principles:
 * Backend - an information manager; API outline
 * Frontend - a console application that can be repleced using same backend structure
 
-![](https://github.com/marcuswenzel/swchallenge/tree/master/images/components.jpg)
+![](https://github.com/marcuswenzel/swchallenge/blob/master/images/components.jpg)
 
 > Components of the application.
 
