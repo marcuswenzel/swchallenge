@@ -1,0 +1,12 @@
+C:\Users\Vinicius\source\repos\Projeto\StarWars.Service.External\bin\Release\StarWars.Service.External.dll.config
+C:\Users\Vinicius\source\repos\Projeto\StarWars.Service.External\bin\Release\StarWars.Service.External.dll
+C:\Users\Vinicius\source\repos\Projeto\StarWars.Service.External\bin\Release\StarWars.Service.External.pdb
+C:\Users\Vinicius\source\repos\Projeto\StarWars.Service.External\bin\Release\Newtonsoft.Json.dll
+C:\Users\Vinicius\source\repos\Projeto\StarWars.Service.External\bin\Release\StarWars.Domain.dll
+C:\Users\Vinicius\source\repos\Projeto\StarWars.Service.External\bin\Release\StarWars.Domain.pdb
+C:\Users\Vinicius\source\repos\Projeto\StarWars.Service.External\bin\Release\Newtonsoft.Json.xml
+C:\Users\Vinicius\source\repos\Projeto\StarWars.Service.External\obj\Release\StarWars.Service.External.csprojAssemblyReference.cache
+C:\Users\Vinicius\source\repos\Projeto\StarWars.Service.External\obj\Release\StarWars.Service.External.csproj.CoreCompileInputs.cache
+C:\Users\Vinicius\source\repos\Projeto\StarWars.Service.External\obj\Release\StarWars.Service.External.csproj.CopyComplete
+C:\Users\Vinicius\source\repos\Projeto\StarWars.Service.External\obj\Release\StarWars.Service.External.dll
+C:\Users\Vinicius\source\repos\Projeto\StarWars.Service.External\obj\Release\StarWars.Service.External.pdb

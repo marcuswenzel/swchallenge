@@ -1,0 +1,12 @@
+C:\Users\Vinicius\source\repos\Projeto\Projeto.Service.External\obj\Debug\Projeto.Service.External.csprojAssemblyReference.cache
+C:\Users\Vinicius\source\repos\Projeto\Projeto.Service.External\obj\Debug\Projeto.Service.External.csproj.CoreCompileInputs.cache
+C:\Users\Vinicius\source\repos\Projeto\Projeto.Service.External\bin\Debug\Projeto.Service.External.dll
+C:\Users\Vinicius\source\repos\Projeto\Projeto.Service.External\bin\Debug\Projeto.Service.External.pdb
+C:\Users\Vinicius\source\repos\Projeto\Projeto.Service.External\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Vinicius\source\repos\Projeto\Projeto.Service.External\bin\Debug\Projeto.Domain.dll
+C:\Users\Vinicius\source\repos\Projeto\Projeto.Service.External\bin\Debug\Projeto.Domain.pdb
+C:\Users\Vinicius\source\repos\Projeto\Projeto.Service.External\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Vinicius\source\repos\Projeto\Projeto.Service.External\obj\Debug\Projeto.Service.External.csproj.CopyComplete
+C:\Users\Vinicius\source\repos\Projeto\Projeto.Service.External\obj\Debug\Projeto.Service.External.dll
+C:\Users\Vinicius\source\repos\Projeto\Projeto.Service.External\obj\Debug\Projeto.Service.External.pdb
+C:\Users\Vinicius\source\repos\Projeto\Projeto.Service.External\bin\Debug\Projeto.Service.External.dll.config

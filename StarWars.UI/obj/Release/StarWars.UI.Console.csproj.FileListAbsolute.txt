@@ -1,0 +1,17 @@
+C:\Users\Vinicius\source\repos\Projeto\StarWars.UI\bin\Release\StarWars.UI.exe.config
+C:\Users\Vinicius\source\repos\Projeto\StarWars.UI\bin\Release\StarWars.UI.exe
+C:\Users\Vinicius\source\repos\Projeto\StarWars.UI\bin\Release\StarWars.UI.pdb
+C:\Users\Vinicius\source\repos\Projeto\StarWars.UI\bin\Release\StarWars.Domain.dll
+C:\Users\Vinicius\source\repos\Projeto\StarWars.UI\bin\Release\StarWars.Service.dll
+C:\Users\Vinicius\source\repos\Projeto\StarWars.UI\bin\Release\StarWars.Service.External.dll
+C:\Users\Vinicius\source\repos\Projeto\StarWars.UI\bin\Release\Newtonsoft.Json.dll
+C:\Users\Vinicius\source\repos\Projeto\StarWars.UI\bin\Release\StarWars.Domain.pdb
+C:\Users\Vinicius\source\repos\Projeto\StarWars.UI\bin\Release\StarWars.Service.pdb
+C:\Users\Vinicius\source\repos\Projeto\StarWars.UI\bin\Release\StarWars.Service.External.pdb
+C:\Users\Vinicius\source\repos\Projeto\StarWars.UI\bin\Release\StarWars.Service.External.dll.config
+C:\Users\Vinicius\source\repos\Projeto\StarWars.UI\bin\Release\Newtonsoft.Json.xml
+C:\Users\Vinicius\source\repos\Projeto\StarWars.UI\obj\Release\StarWars.UI.Console.csprojAssemblyReference.cache
+C:\Users\Vinicius\source\repos\Projeto\StarWars.UI\obj\Release\StarWars.UI.Console.csproj.CoreCompileInputs.cache
+C:\Users\Vinicius\source\repos\Projeto\StarWars.UI\obj\Release\StarWars.UI.Console.csproj.CopyComplete
+C:\Users\Vinicius\source\repos\Projeto\StarWars.UI\obj\Release\StarWars.UI.exe
+C:\Users\Vinicius\source\repos\Projeto\StarWars.UI\obj\Release\StarWars.UI.pdb

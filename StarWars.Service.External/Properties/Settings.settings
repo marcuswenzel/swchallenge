@@ -1,0 +1,9 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Projeto.Service.External.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="WSApiEndpoint" Type="System.String" Scope="User">
+      <Value Profile="(Default)">http://swapi.co/api/starships/</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

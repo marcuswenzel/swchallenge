@@ -1,0 +1,17 @@
+C:\Users\Vinicius\source\repos\Projeto\Projeto.UI\obj\Debug\Projeto.UI.csprojAssemblyReference.cache
+C:\Users\Vinicius\source\repos\Projeto\Projeto.UI\obj\Debug\Projeto.UI.csproj.CoreCompileInputs.cache
+C:\Users\Vinicius\source\repos\Projeto\Projeto.UI\bin\Debug\Projeto.UI.exe.config
+C:\Users\Vinicius\source\repos\Projeto\Projeto.UI\bin\Debug\Projeto.UI.exe
+C:\Users\Vinicius\source\repos\Projeto\Projeto.UI\bin\Debug\Projeto.UI.pdb
+C:\Users\Vinicius\source\repos\Projeto\Projeto.UI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Vinicius\source\repos\Projeto\Projeto.UI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Vinicius\source\repos\Projeto\Projeto.UI\obj\Debug\Projeto.UI.csproj.CopyComplete
+C:\Users\Vinicius\source\repos\Projeto\Projeto.UI\obj\Debug\Projeto.UI.exe
+C:\Users\Vinicius\source\repos\Projeto\Projeto.UI\obj\Debug\Projeto.UI.pdb
+C:\Users\Vinicius\source\repos\Projeto\Projeto.UI\bin\Debug\Projeto.Domain.dll
+C:\Users\Vinicius\source\repos\Projeto\Projeto.UI\bin\Debug\Projeto.Domain.pdb
+C:\Users\Vinicius\source\repos\Projeto\Projeto.UI\bin\Debug\Projeto.Service.dll
+C:\Users\Vinicius\source\repos\Projeto\Projeto.UI\bin\Debug\Projeto.Service.pdb
+C:\Users\Vinicius\source\repos\Projeto\Projeto.UI\bin\Debug\Projeto.Service.External.dll
+C:\Users\Vinicius\source\repos\Projeto\Projeto.UI\bin\Debug\Projeto.Service.External.pdb
+C:\Users\Vinicius\source\repos\Projeto\Projeto.UI\bin\Debug\Projeto.Service.External.dll.config

@@ -1,0 +1,6 @@
+C:\Users\Vinicius\source\repos\Projeto\StarWars.Domain\bin\Release\StarWars.Domain.dll
+C:\Users\Vinicius\source\repos\Projeto\StarWars.Domain\bin\Release\StarWars.Domain.pdb
+C:\Users\Vinicius\source\repos\Projeto\StarWars.Domain\obj\Release\StarWars.Domain.csprojAssemblyReference.cache
+C:\Users\Vinicius\source\repos\Projeto\StarWars.Domain\obj\Release\StarWars.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Vinicius\source\repos\Projeto\StarWars.Domain\obj\Release\StarWars.Domain.dll
+C:\Users\Vinicius\source\repos\Projeto\StarWars.Domain\obj\Release\StarWars.Domain.pdb
